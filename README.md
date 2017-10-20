@@ -1,3 +1,5 @@
+# 🌴Miami National Day of Civic Hacking 2017🌴
+
 ## October 21st @Cambridge Innovation Center
 The theme of Miami Day of Civic Hacking is Disaster Preparedness and Resiliency.
 
@@ -28,12 +30,14 @@ If you need help or have some specific questions, email co-captains [Julie](mail
 ## Here is some data we recommend you work with:
 
  * [FEMA Natural Disaster Data on Irma](https://data.femadata.com/NationalDisasters/HurricaneIrma//)
+ * [FEMA Natural Disaster Data - ALL](https://data.femadata.com/NationalDisasters)
  * [FEMA Flood Zones](http://gis-mdc.opendata.arcgis.com/datasets/1dcbc031b2744d8d97f7b181f56411f5_0)
  * [FEMA Flood Insurance Rate Map](http://gis-mdc.opendata.arcgis.com/datasets/ed5eaa2582e045029b10f5fbc380377a_1)
  * [Miami Dade County 311 Requests](https://opendata.miamidade.gov/311/311-Service-Requests-Miami-Dade-County/dj6j-qg5t/data)
  * [Miami Dade County GIS Portal](http://gis-mdc.opendata.arcgis.com/)
  * [Miami-Dade County’s Open Data Portal](https://opendata.miamidade.gov/)
  * [Puerto Rico’s Open Data Portal](https://data.pr.gov/)
+ * [Data.gov Miami Dade County Data Sets](https://catalog.data.gov/dataset?q=&sort=views_recent+desc&as_sfid=AAAAAAWZxwFB1-FvIBho016i-VJrkVBW4xVkWzCMLPHFErc6sl0ivOnUOmFz2VO2grxhusYnj-xlnW2fo2GsuMje6gLsPUCu8rB1ORfO9UTBw2Txu0HPqEl_JeHxcFCupTe0ACw%3D&as_fid=bc5872e3aefa1c9ac11f12c28d457d0853b37b1d&ext_location=Miami-Dade+County%2C+Florida&ext_bbox=-80.8762%2C25.1523%2C-80.1278%2C25.9847&ext_prev_extent=)
  
 
 ## Schedule
