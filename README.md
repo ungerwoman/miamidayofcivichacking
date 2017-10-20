@@ -1,4 +1,4 @@
-# Miami National Day of Civic Hacking 2017
+# 🌴Miami National Day of Civic Hacking 2017🌴
 
 ## October 21st @Cambridge Innovation Center
 The theme of Miami Day of Civic Hacking is Disaster Preparedness and Resiliency.
