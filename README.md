@@ -1,7 +1,7 @@
-# 🌴Miami National Day of Civic Hacking 2017🌴
+# 🌴Miami National Day of Civic Hacking 2017🌴 
 
 ## October 21st @Cambridge Innovation Center
-The theme of Miami Day of Civic Hacking is Disaster Preparedness and Resiliency.
+🌪  The theme of Miami Day of Civic Hacking is Disaster Preparedness and Resiliency. 🌪 
 
 ##  Who can participate?
 * Citizens -
@@ -38,10 +38,14 @@ If you need help or have some specific questions, email co-captains [Julie](mail
  * [Miami-Dade County’s Open Data Portal](https://opendata.miamidade.gov/)
  * [Puerto Rico’s Open Data Portal](https://data.pr.gov/)
  * [Data.gov Miami Dade County Data Sets](https://catalog.data.gov/dataset?q=&sort=views_recent+desc&as_sfid=AAAAAAWZxwFB1-FvIBho016i-VJrkVBW4xVkWzCMLPHFErc6sl0ivOnUOmFz2VO2grxhusYnj-xlnW2fo2GsuMje6gLsPUCu8rB1ORfO9UTBw2Txu0HPqEl_JeHxcFCupTe0ACw%3D&as_fid=bc5872e3aefa1c9ac11f12c28d457d0853b37b1d&ext_location=Miami-Dade+County%2C+Florida&ext_bbox=-80.8762%2C25.1523%2C-80.1278%2C25.9847&ext_prev_extent=)
+
+ ## Here is some tools we recommend you work with:
+ 
  * [Crowdsourced Hurricane Shelter API](https://irma-api.herokuapp.com/)
  * [FEMA Shelter APIs](https://gis.fema.gov/arcgis/rest/services/NSS/OpenShelters/MapServer)
  * [Ohana API directory of social services](https://github.com/codeforamerica/ohana-api)
-
+ * [Disaster Website Template by Disaster Systems](https://disastersystems.org/)
+ 
  
 
 ## Schedule
