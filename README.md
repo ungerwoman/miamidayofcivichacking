@@ -1,6 +1,6 @@
 # 🌴Miami National Day of Civic Hacking 2017🌴 
 
-## October 21st @Cambridge Innovation Center
+## October 21st @ Cambridge Innovation Center
 🌪  The theme of Miami Day of Civic Hacking is Disaster Preparedness and Resiliency. 🌪 
 
 ##  Who can participate?
@@ -14,6 +14,9 @@ Use your skills to help understand the data and get important insights from it.
 Use your skills to develop solutions that can help solve important societal issues.
 * Designers -
 Help us make open data relatable, so more people will use it and understand it.
+
+## Review our Code of Conduct 
+Make the personal pledge to provide a safe space free from discrimination and harassment. [Read more here.](http://codefor.miami/code-of-conduct)
 
 ##  Get Started!
 
@@ -39,7 +42,7 @@ If you need help or have some specific questions, email co-captains [Julie](mail
  * [Puerto Rico’s Open Data Portal](https://data.pr.gov/)
  * [Data.gov Miami Dade County Data Sets](https://catalog.data.gov/dataset?q=&sort=views_recent+desc&as_sfid=AAAAAAWZxwFB1-FvIBho016i-VJrkVBW4xVkWzCMLPHFErc6sl0ivOnUOmFz2VO2grxhusYnj-xlnW2fo2GsuMje6gLsPUCu8rB1ORfO9UTBw2Txu0HPqEl_JeHxcFCupTe0ACw%3D&as_fid=bc5872e3aefa1c9ac11f12c28d457d0853b37b1d&ext_location=Miami-Dade+County%2C+Florida&ext_bbox=-80.8762%2C25.1523%2C-80.1278%2C25.9847&ext_prev_extent=)
 
- ## Here is some tools we recommend you work with:
+ ## Here are some tools we recommend you work with:
  
  * [Crowdsourced Hurricane Shelter API](https://irma-api.herokuapp.com/)
  * [Crowdsourced Shelter Needs API](https://irma-api.herokuapp.com/needs/)
@@ -52,22 +55,48 @@ If you need help or have some specific questions, email co-captains [Julie](mail
 
 ## Schedule
 
-**09:00** — Breakfast
+**09:00** — Registration & Breakfast
 
-**09:30** — Opening Remarks
+**09:30** — Opening remarks + special guests Mike Sarasti, Chief Innovation Officer to the City of Miami & Jorge Besu, Code 4 Puerto Rico
 
-**10:00** — Start Projects
+**10:00** — Breakout One: Learning to Map Your City with Susana Siman, Urban Planner
+
+**10:45** — Breakout Two: The Value In Data with Athena Hadjixenofontos, Center for Computational Science University of Miami 
 
 **01:00** — Lunch Provided
 
 **04:00** — Presentations
 
-**04:30** — Closing Remarks / Special Guest
+**04:30** — Presentations + Final Remarks from Jane Gilbert, Chief Resilience Officer to the City of Miami
+
+**5:00pm** — After-brews provided by [Boxelder](http://www.bxldr.com/)
+
 
 ## Presentation Information
 
 - Length: 5 mins
 - [:computer: Please copy and paste into your own presentation](https://docs.google.com/presentation/d/1IKsq7ibQmzMiYRsv_AFuXrhgaLqNDfM-bFfxpRSY-aE/edit?usp=sharing)
+
+## Get Social
+Visit the following links for our social accounts: [Twitter](https://www.twitter.com/CodeForMiami/), [Facebook](https://www.facebook.com/CodeForMiami/), [Instagram](instagram.com/codeformiami/)
+
+**Event Hashtags**
+#HackForChange #DisasterHacks
+#CodeforMiami #Code4PuertoRico
+
+**Social Tags**
+Instagram
+@CodeForMiami
+@boxeldermiami
+
+Twitter
+@CodeForMiami
+@Code4PuertoRico
+@sarasti
+@ResilientJane
+@codeforftl
+@hack4savannah
+@boxeldermiami
 
 ## Wondering how to propose or discuss your project ideas?
 
